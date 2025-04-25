@@ -1,4 +1,4 @@
-# 🚀 FocusFlow — Your AI-Powered Productivity Partner
+# 🚀 FocusFlow AI — Your AI-Powered Productivity Partner
 
 **🏆 1st Place Winner | Innovation Hacks 2025 @ Arizona State University**
 
