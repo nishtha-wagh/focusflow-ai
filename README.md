@@ -36,7 +36,22 @@ FocusFlow is an intelligent Chrome extension designed to keep users focused and 
 ---
 
 ## 📁 Folder Structure
-FocusFlow/ ├── manifest.json ├── popup.html ├── popup.js ├── background.js ├── services/ │ ├── gemini.js # Gemini 1.5 Pro integration │ ├── classifier.js # Site classification logic │ └── config.js # API keys/configs (if any) ├── styles/ │ └── popup.css # Optional: extracted styles ├── icons/ │ └── icon128.png # Extension icon └── README.md
+```
+FocusFlow/
+├── manifest.json
+├── popup.html
+├── popup.js
+├── background.js
+├── services/
+│   ├── gemini.js        # Gemini 1.5 Pro integration
+│   ├── classifier.js    # Site classification logic
+│   └── config.js        # API keys/configs (if any)
+├── styles/
+│   └── popup.css        # Optional: extracted styles
+├── icons/
+│   └── icon128.png      # Extension icon
+└── README.md
+```
 
 ---
 
