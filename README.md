@@ -59,7 +59,7 @@ Follow these steps to install and run the FocusFlow Chrome Extension locally:
 
 1. Clone the repository
 
-    git clone https://github.com/your-username/focusflow.git
+    git clone https://github.com/nishtha-wagh/focusflow-ai.git
     cd focusflow
 
 2. Add your Gemini API Key
