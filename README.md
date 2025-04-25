@@ -46,10 +46,8 @@ FocusFlow/
 │   ├── gemini.js        # Gemini 1.5 Pro integration
 │   ├── classifier.js    # Site classification logic
 │   └── config.js        # API keys/configs (if any)
-├── styles/
-│   └── popup.css        # Optional: extracted styles
 ├── icons/
-│   └── icon128.png      # Extension icon
+│   └── icon.png      # Extension icon
 └── README.md
 ```
 
